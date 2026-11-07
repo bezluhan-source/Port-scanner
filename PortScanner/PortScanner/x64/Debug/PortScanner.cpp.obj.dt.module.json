@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "PortScanner\\x64\\Debug\\PortScanner.obj",
+            "outputs": [
+                "PortScanner\\x64\\Debug\\PortScanner.cpp.obj.dt.module.json",
+                "PortScanner\\x64\\Debug\\PortScanner.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
